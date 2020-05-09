@@ -1,0 +1,14 @@
+#library "DMDFMPLS"
+#include "zcommon.acs"
+#import "CPLIB.acs"
+
+
+
+script 901 OPEN
+{
+	delay(35);
+	
+	addHUBPortal("DMDFCP01","DMDFCP01","Warehouse Warfare","DMDFNM01");
+	addHUBPortal("DMDFCP02","DMDFCP02","Caverns of the Cult","DMDFNM02");
+	addHUBPortal("DMDFCP03","DMDFCP03","Sewer Shambles","DMDFNM03");
+}

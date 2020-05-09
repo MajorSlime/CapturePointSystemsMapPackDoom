@@ -1,0 +1,23 @@
+map DMDFCP01 "Warehouse Warefare"
+{
+	nointermission
+	sky1 = "SKY1"
+	music = ACETONE
+	next = "HUB_DOOM"
+}
+
+map DMDFCP02 "Caverns of the Cult"
+{
+	nointermission
+	sky1 = "SKY1"
+	music = ANENCEPH
+	next = "HUB_DOOM"
+	fogdensity = 16
+}
+
+map DMDFCP03 "Sewer Shambles"
+{
+	nointermission
+	next = "HUB_DOOM"
+	music = "d_runnin"
+}

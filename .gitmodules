@@ -1,0 +1,3 @@
+[submodule "cps"]
+	path = cps
+	url = https://github.com/MajorSlime/CapturePointSystems.git
